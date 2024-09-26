@@ -1,3 +1,7 @@
+/** 
+ *@author Yuqi Max Zhang 
+ *@classn_name CISC 190 
+ */
 public class Time {
     //Fields declaration
     private int hour,minute,second = 0;
