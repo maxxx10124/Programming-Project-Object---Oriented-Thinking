@@ -1,6 +1,6 @@
 /** 
  *@author Yuqi Max Zhang 
- *@classn_name CISC 190 
+ *@classn_name CISC 191 
  */
 public class Time {
     //Fields declaration
